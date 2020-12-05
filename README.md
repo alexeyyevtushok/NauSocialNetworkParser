@@ -2,7 +2,7 @@
 
 Parse social media attributes from url or construct url from attributes.
 
-This work is done for National Aviation University
+*This work is done for National Aviation University*
 
 ## Installation
 
